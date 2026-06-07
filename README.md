@@ -5,8 +5,6 @@
 
 ![teaser](https://github.com/user-attachments/assets/b51980f8-29ae-46ec-a572-6700ae0462ae)
 
-### Be aware current version still need some correction and clean-ups. If there are any suggestion for environment setting, let us know for future users
-
 
 
 ## :gear: Install Environment via Anaconda (Recommended)
